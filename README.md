@@ -1,3 +1,5 @@
+download_aozora_zip.py
+
 This is a script for downloading all ZIP files linked from Aozora Bunko author works list page.
 
 Example target:
